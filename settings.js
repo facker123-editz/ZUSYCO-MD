@@ -42,7 +42,7 @@ module.exports = {
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 100,
+  MAX_SIZE : 1000,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
@@ -52,7 +52,7 @@ module.exports = {
      ONLY_COMMANDS : false,
      STATUS : true,
   },
-  BOT_OFFLINE : true,
+  BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
